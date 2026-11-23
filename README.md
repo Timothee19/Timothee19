@@ -27,7 +27,6 @@
 | :--- | :---: | :--- | :--- |
 | **[alzheimer-mri-oasis1](https://github.com/Timothee19/alzheimer-mri-oasis1)** | `Public` | EDA et modélisation Deep Learning (**CNN 2D**, **Attention MIL 61 coupes**, **MobileNetV2 2.5D**) sur 86 437 coupes d'IRM cérébrales Alzheimer **OASIS-1** (TensorFlow + Intel Iris XPU). | `Python` `Jupyter` `TensorFlow` |
 | **[AnkiCardsGenerator](https://github.com/Timothee19/AnkiCardsGenerator)** ⭐ 2 | `Public` | Générateur automatique de flashcards Anki depuis des cours scientifiques PDF via une architecture **Knowledge Graph**, un pipeline **multi-agents Mistral API** et un frontend web. | `Python` `TypeScript` `Mistral API` |
-| **[Bob-slay](https://github.com/Timothee19/Bob-slay)** | `Public` | Prédiction et correction de biais dans l'évaluation motrice de la maladie de Parkinson (score OFF MDS-UPDRS) — *Bobathon ESILV (Probabl × IBM)*. | `Python` `HTML` `ML` |
 | **[SRGAN](https://github.com/Timothee19/SRGAN)** | `Public` | Conception et comparaison de deux **Super-Resolution GAN** (conditionnel & **Wasserstein GAN**) sous TensorFlow/Keras pour la super-résolution d'images ×2 et ×4 (*TIPE*). | `Python` `TensorFlow` `Keras` |
 
 ---
@@ -36,6 +35,7 @@
 
 | Projet | Propriétaire | Visibilité | Description | Stack |
 | :--- | :--- | :---: | :--- | :--- |
+| **[Bob-slay](https://github.com/Timothee19/Bob-slay)** | `Timothee19` | `Public` | Prédiction et correction de biais dans l'évaluation motrice de la maladie de Parkinson (score OFF MDS-UPDRS) — *Bobathon ESILV (Probabl × IBM)* (avec `@nils-demougeot`, `@BaptisteWEH`, `@sachasom`). | `Python` `HTML` `ML` |
 | **[NextGenAI](https://github.com/BaptisteWEH/NextGenAI)** | `BaptisteWEH` | `Public` | Projet collaboratif ESILV (groupe **DIA3-3**) : benchmark comparatif de 5 modèles d'IA générative sur base SQLite et rapports analytiques. | `Python` `HTML` `SQLite` |
 | **MachineLearningProjectCS2** | `BaptisteWEH` | `Privé` | Prédiction calibrée en temps réel de la probabilité de victoire de round sur **Counter-Strike 2** (CS2RB v1.0) et explicabilité tactique **SHAP** (« Coach Mode ») — *ESILV A4*. | `Python` `Jupyter` `SHAP` `LaTeX` |
 | **TestCapteurCourant** | `VinciEcoDrive` | `Privé` | Acquisition et calibration d'un capteur de courant **ACS770x-050U** sur **ESP32** (PlatformIO) pour le prototype électrique Vinci Eco Drive. | `C++` `ESP32` `PlatformIO` |
