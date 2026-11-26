@@ -1,6 +1,6 @@
 <div align="center">
 
-# Salut, moi c'est Timothée Barselo 👋
+# Salut, moi c'est Timothée Soulez Barselo 👋
 
 **Élève-Ingénieur Data & Intelligence Artificielle à l'ESILV · Membre de Vinci Eco Drive**
 
